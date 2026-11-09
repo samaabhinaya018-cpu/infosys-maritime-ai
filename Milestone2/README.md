@@ -41,43 +41,31 @@ In this milestone the provided single-administrator app was turned into a real m
 
 Answers come from real database queries. Quick-question chips help users get started.
 
-<p align="center">
-  <img src="Screenshot 2026-11-08 145843.jpg>
-</p>
+![AI Copilot page](screenshots/ai_copilot.jpg)
 
 ### Route AI (Agent 1)
 
-Shows the planned route for every shipment with weather risk, route, cost, transit days and the reason for the choice. The **Re-route** button reruns the planner.
+Shows the planned route for every shipment with weather risk, route, cost, transit days and the reason for the choice. The Re-route button reruns the planner.
 
-<p align="center">
-  <img src=Screenshot 2026-11-08 145612.jpg">
-</p>
+![Route AI page](screenshots/route_ai.jpg)
 
 ### Spot Quotes (Agent 2)
 
 Lists every generated quote with customer, lane, container, carrier, price and creation date.
 
-<p align="center">
-  <img src="Screenshot 2026-11-08 145911.jpg">
-</p>
+![Spot Quotes page](screenshots/spot_quotes.jpg)
 
 ### Admin Dashboard: Users
 
-KPI cards, an **Add user** form and the users table with role drop-downs and Lock / Delete actions. Only the Admin role can open this page.
+KPI cards, an Add user form and the users table with role drop-downs and Lock / Delete actions. Only the Admin role can open this page.
 
-<p align="center">
-  <img src="Screenshot 2026-11-08 150115.jpg">
-</p>
+![Admin dashboard users page](screenshots/admin_users.jpg)
 
 ### Profile
 
 Shows username, email, role, joined date and last login. Users can change their username and password.
 
-<p align="center">
-  <img src="Screenshot 2026-11-08 150144.jpg">
-</p>
-
----
+![Profile page](screenshots/profile.jpg)---
 
 ## ✨ Features
 
