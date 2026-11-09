@@ -42,7 +42,7 @@ In this milestone the provided single-administrator app was turned into a real m
 Answers come from real database queries. Quick-question chips help users get started.
 
 <p align="center">
-  <img src="screenshots/ai_copilot.png" alt="AI Copilot page" width="100%">
+  <img src="Milestone2/Screenshots/Screenshot 2026-11-08 145843.jpg>
 </p>
 
 ### Route AI (Agent 1)
@@ -50,7 +50,7 @@ Answers come from real database queries. Quick-question chips help users get sta
 Shows the planned route for every shipment with weather risk, route, cost, transit days and the reason for the choice. The **Re-route** button reruns the planner.
 
 <p align="center">
-  <img src="screenshots/route_ai.png" alt="Route AI page" width="100%">
+  <img src="Milestone2/Screenshots/Screenshot 2026-11-08 145612.jpg">
 </p>
 
 ### Spot Quotes (Agent 2)
@@ -58,7 +58,7 @@ Shows the planned route for every shipment with weather risk, route, cost, trans
 Lists every generated quote with customer, lane, container, carrier, price and creation date.
 
 <p align="center">
-  <img src="screenshots/spot_quotes.png" alt="Spot Quotes page" width="100%">
+  <img src="Milestone2/Screenshots/Screenshot 2026-11-08 145911.jpg">
 </p>
 
 ### Admin Dashboard: Users
@@ -66,7 +66,7 @@ Lists every generated quote with customer, lane, container, carrier, price and c
 KPI cards, an **Add user** form and the users table with role drop-downs and Lock / Delete actions. Only the Admin role can open this page.
 
 <p align="center">
-  <img src="screenshots/admin_users.png" alt="Admin dashboard users page" width="100%">
+  <img src="Milestone2/Screenshots/Screenshot 2026-11-08 150115.jpg">
 </p>
 
 ### Profile
@@ -74,7 +74,7 @@ KPI cards, an **Add user** form and the users table with role drop-downs and Loc
 Shows username, email, role, joined date and last login. Users can change their username and password.
 
 <p align="center">
-  <img src="screenshots/profile.png" alt="Profile page" width="100%">
+  <img src="Milestone2/Screenshots/Screenshot 2026-11-08 150144.jpg">
 </p>
 
 ---
