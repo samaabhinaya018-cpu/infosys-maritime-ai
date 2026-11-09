@@ -34,38 +34,37 @@ In this milestone the provided single-administrator app was turned into a real m
 - Refreshed, responsive design with dark mode
 
 ---
-
 ## 🖼️ Application Preview
 
 ### AI Copilot
 
 Answers come from real database queries. Quick-question chips help users get started.
 
-![AI Copilot page](screenshots/ai_copilot.jpg)
+![AI Copilot page](screenshots/Screenshot%202026-11-08%20145843.jpg)
 
 ### Route AI (Agent 1)
 
 Shows the planned route for every shipment with weather risk, route, cost, transit days and the reason for the choice. The Re-route button reruns the planner.
 
-![Route AI page](screenshots/route_ai.jpg)
+![Route AI page](screenshots/Screenshot%202026-11-08%20145612.jpg)
 
 ### Spot Quotes (Agent 2)
 
 Lists every generated quote with customer, lane, container, carrier, price and creation date.
 
-![Spot Quotes page](screenshots/spot_quotes.jpg)
+![Spot Quotes page](screenshots/Screenshot%202026-11-08%20145911.jpg)
 
 ### Admin Dashboard: Users
 
 KPI cards, an Add user form and the users table with role drop-downs and Lock / Delete actions. Only the Admin role can open this page.
 
-![Admin dashboard users page](screenshots/admin_users.jpg)
+![Admin dashboard users page](screenshots/Screenshot%202026-11-08%20150115.jpg)
 
 ### Profile
 
 Shows username, email, role, joined date and last login. Users can change their username and password.
 
-![Profile page](screenshots/profile.jpg)---
+![Profile page](screenshots/Screenshot%202026-11-08%20150144.jpg)
 
 ## ✨ Features
 
